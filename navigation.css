@@ -1,0 +1,19 @@
+li{
+    display:inline-block;
+}
+a{
+    text-decoration: none;
+}
+   body{
+    background-color: whitesmoke;
+    margin:0%;
+    height:auto;
+}
+header{
+    font-weight: bolder;
+    color:white;
+    background-color: red;
+    font-size: large;
+    text-align: center;
+    padding: 15px;
+}
